@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lanszelot</string>
+    <string name="save">Mentés</string>
+    <string name="hint_name">Név</string>
+    <string name="hint_age">Életkor</string>
+    <string name="got_asthma">Asztmás?</string>
+    <string name="hint_simple_text">Egyszerű szöveg</string>
+    <string name="checkbox_text">Ki kell pipálni</string>
+    <string name="mandatoryError">A mező kitöltése kötelező</string>
+    <string name="ageError">A kor csak 10 és 110 között lehet</string>
+</resources>
